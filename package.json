@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/brambow/polyline-midpoint/issues"
   },
-  "homepage": "https://github.com/brambow/polyline-midpoint#readme"
+  "homepage": "https://github.com/brambow/polyline-midpoint#readme",
+  "dependencies": {
+    "@mapbox/polyline": "^0.2.0",
+    "@turf/along": "^4.3.0",
+    "@turf/helpers": "^4.3.0",
+    "@turf/line-distance": "^4.3.0"
+  }
 }
