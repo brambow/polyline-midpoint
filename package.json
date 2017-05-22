@@ -1,6 +1,6 @@
 {
   "name": "polyline-midpoint",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "returns midpoint along geographic polyline",
   "main": "index.js",
   "scripts": {
