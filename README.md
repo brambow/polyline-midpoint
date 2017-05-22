@@ -20,6 +20,19 @@ Example:
   console.log(polylineMidpoint);
   ```
 
+Result:
+
+  ```javascript
+  { 
+  type: 'Feature',
+  properties: {},
+  geometry: 
+    { type: 
+    'Point',
+    coordinates: [ -87.68980233194598, 41.83358593924626 ] 
+    } 
+  }
+
 ## License
 
 MIT
