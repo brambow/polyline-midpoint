@@ -6,10 +6,11 @@ A NodeJS package that takes an encoded polyline and returns the midpoint in geoJ
 
 Install with npm:
 
-  npm install polyline-midpoint --save
+  `npm install polyline-midpoint --save`
 
 Example:
 
+  ```javascript
   var midpoint = require('polyline-midpoint');
 
   var encodedPolyline = 'yhg~FzrmvOkuAo~GkEg{Aer@mlB';
@@ -17,6 +18,7 @@ Example:
   var polylineMidpoint = midpoint(encodedPolyline);
 
   console.log(polylineMidpoint);
+  ```
 
 ## License
 
