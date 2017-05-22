@@ -27,8 +27,8 @@ Result:
   type: 'Feature',
   properties: {},
   geometry: 
-    { type: 
-    'Point',
+    { 
+    type: 'Point',
     coordinates: [ -87.68980233194598, 41.83358593924626 ] 
     } 
   }
